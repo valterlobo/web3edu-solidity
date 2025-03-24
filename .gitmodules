@@ -1,0 +1,6 @@
+[submodule "projetos/projetos/phygital_assets"]
+	path = projetos/projetos/phygital_assets
+	url = https://github.com/valterlobo/Phygital_Assets.git
+[submodule "projetos/phygital_assets"]
+	path = projetos/phygital_assets
+	url = https://github.com/valterlobo/Phygital_Assets.git
